@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Secquraise</string>
+    <string name="text_capture_count">Capture Count</string>
+    <string name="text_freq">Frequency (min)</string>
+    <string name="text_connectivity">Connectivity</string>
+    <string name="text_battery">Battery Charging</string>
+    <string name="text_battery_charge">Battery Charge</string>
+    <string name="text_location">Location</string>
+</resources>
