@@ -6,4 +6,6 @@
     <string name="text_battery">Battery Charging</string>
     <string name="text_battery_charge">Battery Charge</string>
     <string name="text_location">Location</string>
+    <string name="on_status">ON</string>
+    <string name="off_status">OFF</string>
 </resources>
